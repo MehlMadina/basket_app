@@ -1,0 +1,64 @@
+.card {
+    border: 2px solid #303952;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.image {
+    width: 160px;
+    height: 160px;
+    object-fit: contain;
+    margin: 15px;
+}
+
+.del_btn {
+    position: relative;
+    bottom: 10px;
+    left: 320px;
+    width: 40px;
+    height: 40px;
+    font-size: 23px;
+    background-color: white;
+    border: none;
+    color: #303952;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 28px;
+    color: #17a017;
+}
+
+.triggers_btn {
+    display: flex;
+    gap: 13px;
+    margin: 13px;
+    font-size: 17px;
+}
+
+.triggers_btn button {
+    background-color: white;
+    border: 1px solid #303952;
+    border-radius: 5px;
+    height: 25px;
+    width: 24px;
+    font-size: 20px;
+    color: #303952;
+}
+
+.total_info {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+}
