@@ -9,7 +9,10 @@ export default function Product({
   rating,
   deleteProduct,
   changeCount,
+
 }) {
+
+
   return (
     <div>
       {rating.count !== 0 ? (

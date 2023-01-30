@@ -19,9 +19,7 @@
 }
 
 .del_btn {
-    position: relative;
-    bottom: 10px;
-    left: 320px;
+    align-self: flex-end;
     width: 40px;
     height: 40px;
     font-size: 23px;
