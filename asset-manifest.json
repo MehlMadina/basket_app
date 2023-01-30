@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/basket_app/static/css/main.e754342b.css",
+    "main.css": "/basket_app/static/css/main.ab27baa9.css",
     "main.js": "/basket_app/static/js/main.0cdc450a.js",
     "index.html": "/basket_app/index.html",
-    "main.e754342b.css.map": "/basket_app/static/css/main.e754342b.css.map",
+    "main.ab27baa9.css.map": "/basket_app/static/css/main.ab27baa9.css.map",
     "main.0cdc450a.js.map": "/basket_app/static/js/main.0cdc450a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e754342b.css",
+    "static/css/main.ab27baa9.css",
     "static/js/main.0cdc450a.js"
   ]
 }
